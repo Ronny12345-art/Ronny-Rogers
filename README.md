@@ -1,4 +1,4 @@
-# Ronny Rogers # MRcutter 🔪
+ # MRcutter 🔪
 
 A powerful cybersecurity tool developed for ethical hacking, penetration testing, and security research.
 
