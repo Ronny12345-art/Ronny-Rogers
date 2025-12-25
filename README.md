@@ -1,4 +1,4 @@
- # MRcutter 🔪
+ # MRcutter – Cybersecurity Tool by Ronny Rogers
 
 A powerful cybersecurity tool developed for ethical hacking, penetration testing, and security research.
 
@@ -6,7 +6,7 @@ A powerful cybersecurity tool developed for ethical hacking, penetration testing
 
 ## 👤 Developer
 
-![Profile Image](https://raw.githubusercontent.com/Ronny12345-art/RonnyRogers/refs/heads/main/R26.jpg)
+![Profile Image](https://raw.githubusercontent.com/Ronny12345-art/ronny-rogers/refs/heads/main/ronny-rogers.png)
 
 **Ronny Rogers**  
 Cybersecurity Specialist • Developer • Pentester • Ethical Hacker  
@@ -14,6 +14,11 @@ Cybersecurity Specialist • Developer • Pentester • Ethical Hacker
 I am the **creator and developer of the MRcutter tool**, focused on building practical tools for ethical hacking, red team simulations, and cybersecurity education.
 
 ---
+![Ronny Rogers Cybersecurity Specialist](https://raw.githubusercontent.com/Ronny12345-art/ronny-rogers/refs/heads/main/ronny-rogers.png)
+
+MRcutter image banner
+---
+![MRcutter Banner](https://raw.githubusercontent.com/Ronny12345-art/ronny-rogers/refs/heads/main/mrcutter.png)
 
 ## 🌐 Social Media & Profiles
 
@@ -22,7 +27,7 @@ I am the **creator and developer of the MRcutter tool**, focused on building pra
 - 📸 Instagram: https://www.instagram.com/ronny_rogers28/
 - 👽 Reddit: https://www.reddit.com/user/According_Silver_938/
 - 💼 LinkedIn: https://www.linkedin.com/in/ronny-rogers-4b481939b/
-- GMAIL : rogersronny28@gmail.com 
+  
 
 ---
 
@@ -33,6 +38,8 @@ MRcutter is a cybersecurity tool designed for:
 - Penetration testing
 - Security research
 - Educational purposes only
+
+  MRcutter is developed by Ronny Rogers, a cybersecurity specialist and ethical hacker focused on penetration testing and open-source security tools.
 
 ⚠️ **Disclaimer:**  
 This tool is intended **ONLY for legal and ethical use** on systems you own or have permission to test.
@@ -54,5 +61,7 @@ Developed and maintained by **Ronny Rogers**
 Cybersecurity Specialist & Ethical Hacker
 
 ---
+🔎 Keywords:
+Ronny Rogers, MRcutter, cybersecurity specialist, ethical hacker, penetration tester, open-source security tools
 
 ⭐ If you find this project useful, please **star the repository**.
